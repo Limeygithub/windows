@@ -6,8 +6,8 @@ services:
       RAM_SIZE: "10G"
       DISK_SIZE: "1024G"
       CPU_CORES: "8"
-      USERNAME: "grzanka"
-      PASSWORD: "grzanka"
+      USERNAME: "hostlyadmin"
+      PASSWORD: "hostlyadmin"
     devices:
       - /dev/kvm
       - /dev/net/tun
