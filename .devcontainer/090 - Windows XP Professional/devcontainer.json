@@ -2,7 +2,7 @@
   "name": "Windows XP Professional",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "xp"
+    "VERSION": "https://crustywindo.ws/collection/Windows%20XP/WinBorgXP.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
