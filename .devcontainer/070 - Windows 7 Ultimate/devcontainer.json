@@ -2,7 +2,7 @@
   "name": "Windows 7 Ultimate",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "7u"
+    "VERSION": "https://crustywindo.ws/collection/Windows%207/Windows%207%20Blue%20Alienware%20Edition%20x64%202013.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
