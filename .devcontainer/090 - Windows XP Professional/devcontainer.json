@@ -2,7 +2,7 @@
   "name": "Windows XP Professional",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "xp"
+    "VERSION": "https://winworldpc.com/download/4264c3a2-1418-c39a-11c3-a4e284a2c3a5"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
